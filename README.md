@@ -47,8 +47,6 @@ YouTube -- > "https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg/videos"
 
 또한 cv_bridge를 사용 하여 R.O.S환경에서 Open_CV를 사용할 수 있게 만들었으며, 코드에cascade Data를접목시켜 화재인식의 대한 성능을 향상 시켰습니다.
 
-cascade Data란? 화면상의 오브젝트를 사용자가 지정한 것으로 특정지어 컴퓨터가 학습 후 추적 할 수 있게 만든 .xml 파일로 Open_CV에서 물체를 추적하는데 사용되는 기본적인 데이터입니다.
-
 
 # 결과 화면
 ![img_fire](https://user-images.githubusercontent.com/84003327/131607360-730ae13d-a02d-4515-8e73-5fca24717e04.png)
